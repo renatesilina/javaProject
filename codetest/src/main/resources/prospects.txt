@@ -1,0 +1,16 @@
+codetest.mortage.plan.Customer,Total loan,Interest,Years
+Juha,1000,5,2
+Karvinen,4356,1.27,6
+Claes Mansson,1300.55,8.67,2
+"Clarence,Andersson",2000,6,4
+
+
+
+
+
+
+
+
+
+
+.
