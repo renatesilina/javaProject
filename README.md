@@ -1,5 +1,7 @@
 # javaProject
-Download the application folder
+How to run the project.
+Download the application folder.
+
 Option one:
 Open project folder in code editor and run the main program
 
@@ -13,8 +15,7 @@ java -jar target/mortageplan-1.0.1.jar
 Build a Docker image from Dockerfile (included in program package)
 CMD -> locate to program folder
 Buid image:
-docker build -t <container_id> .
-ex:
-docker build -t mortageplan/docker .
+docker build -t <image_name> .
+
 run image in cmd:
-docker run -i mortageplan/docker
+docker run -i <image_name>
