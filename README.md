@@ -12,8 +12,8 @@ mvn package
 java -jar target/mortageplan-1.0.1.jar
 
 
-Build a Docker image from Dockerfile (included in program package)
-CMD -> locate to program folder
+Build a Docker image from Dockerfile (included in program package).
+Open a cmd and locate to program folder
 Buid image:
 docker build -t <image_name> .
 
